@@ -1,2 +1,2 @@
 # AngularUserAuth
-This is an Angular User Auth Simple of tutorial Faztweb
+This is an Simple Angular User Auth of tutorial Faztweb
